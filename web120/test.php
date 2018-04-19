@@ -111,6 +111,7 @@
 	</header>
     <main role="main">
 	 <header><h3>Contact Us!</h3></header>
+	 <p>This was added in our 3rd commit</p>
     <p>Inside the source of this file, you can un-comment and test 
         2 different types of forms:
         <div class="indent">
