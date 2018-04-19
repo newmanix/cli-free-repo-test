@@ -1,7 +1,7 @@
 <?php include 'includes/top.php';?>      
 <!-- START LEFT COL -->
 <section>
- <h2 class="pageID">Welcome</h2>
+ <h2 class="pageID">Welcome, Friends!</h2>
  <img src="images/desktop.jpg" class="desktop" alt="German Shepherd on a Desktop Screen!" />
  <img src="images/phone.jpg" class="phone" alt="German Shepherd on a phone screen!" />
  <p>Here is more clever text</p>
