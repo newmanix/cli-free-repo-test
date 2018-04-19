@@ -5,6 +5,7 @@
  <img src="images/desktop.jpg" class="desktop" alt="German Shepherd on a Desktop Screen!" />
  <img src="images/phone.jpg" class="phone" alt="German Shepherd on a phone screen!" />
  <p>Here is more clever text</p>
+ <p>Here is more text</p>
  <p>This text is even more clever then the last text</p>
  <p>Lorem Ipsum place holder text goes here for now</p>
  <p>Lorem Ipsum place holder text goes here for now</p>
